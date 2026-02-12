@@ -1,5 +1,5 @@
 Built on springboot. 
-So counldn'd be deployed on render without using docker.
+
 
 
 
